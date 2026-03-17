@@ -1,4 +1,4 @@
-This is the repository for the metadata, sequencing/proteomic data, and code necessary for data analysis and figure generation for the manuscript titled "Distinct Host and Microbial Biology Distinguishes Lower Respiratory Tract Infection from Incidental Pathogen Carriage". Link to manuscript will be added once accepted/published.
+This is the repository for the metadata, sequencing/proteomic data, and code necessary for data analysis and figure generation for the manuscript titled "Host–Microbiome Archetypes Differentiate Infection from Pathogen Carriage in the Human Lower Airway". Link to manuscript will be added once accepted/published.
 
 # File descriptions
 1. metadata.csv: includes limited, de-identified metadata for the entire cohort, including age, sex, clinical adjudication, clinical microbiology, mNGS hits (and the sum NT-RPM of the pathogenic viruses and bacteria detected), and shannon diversity index.
